@@ -40,7 +40,6 @@ Technologies used in the project:
 3. **JavaScript (JS)**: JavaScript adds interactivity and dynamic functionality to the website. It is utilized for tasks such as form validation, interactive elements (like sliders or dropdown menus), and loading content asynchronously without reloading the entire page.
 
 4. **API Integration**: The website integrates with various APIs (Application Programming Interfaces) to fetch dynamic data from external sources. For instance:
-   - **Restaurant API**: It fetches dining options, reviews, and ratings dynamically from restaurant databases or services.
    - **Recipe API**: It accesses recipe databases to provide a wide range of recipes based on user preferences or search queries.
 
 5. **Responsive Design**: The website implements responsive design techniques using CSS media queries to ensure optimization for various devices and screen sizes, providing a seamless experience across desktops, tablets, and smartphones.
