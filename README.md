@@ -25,9 +25,7 @@ Here are some of the project's best features:
 
 3.**Recipe Wonderland**: Step into a world of culinary creativity with our extensive collection of handpicked recipes from around the globe, perfect for igniting your passion for cooking.
 
-4.**Cooking Tips from Chefs**: Get secrets from famous chefs! They share their special recipes with us.
 
-5.**Seasonal Food Ideas**: Learn about foods for each season! We give you ideas and tips for cooking with fresh ingredients.tips.
   
 <h2> Built with</h2>
 
